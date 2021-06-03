@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on a paper sent by some eminent Presbyterians to the Congregational, as an expedient for peace</title>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58489</idno><idno type="EEBO-CITATION">13651609</idno>
+  <idno type="VID">100992</idno>
+  <idno type="EEBO-PROQUEST">2248509003</idno>
+  
+            <idno type="STC">Wing R930</idno>
+            <idno type="STC">ESTC R33992</idno>
+            <idno type="OCLC">13651609</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100992)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on a paper sent by some eminent Presbyterians to the Congregational, as an expedient for peace</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Hiller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterians --  Great Britain.</term>
+               <term type="topical_term">Peace.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100992:1"/>
+            <pb facs="tcp:100992:1"/>
+            <p>REMARKS ON A PAPER Sent by some Eminent <hi>Presbyterians</hi> TO THE CONGREGATIONAL, As an Expedient for PEACE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nath. Hiller</hi> at the <hi>Prince</hi>'s <hi>Arms</hi> in <hi>Leaden-Hall-Street,</hi> over against St. <hi>Mary Axe,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:100992:2"/>
+            <pb n="3" facs="tcp:100992:2"/>
+            <head>REMARKS on the Expedient for PEACE.</head>
+            <p>THAT the <hi>Paper</hi> sent by some of the most Eminent <hi>Presbyterian</hi> Brethren unto the <hi>Con<g ref="char:EOLhyphen"/>gregational,</hi> as an Expedient for the Healing the Breach amongst us, and with much Glad<g ref="char:EOLhyphen"/>ness embraced by them, is <hi>Published,</hi> doth greatly re<g ref="char:EOLhyphen"/>fresh us: I will therefore Insert this Healing Paper, and make my Remarks on it.</p>
+            <div type="text">
+               <head>The Healing Paper.</head>
+               <p>
+                  <q>WHereas some unhappy Differences have arisen amongst us principally about the Doctrine of <hi>Justification,</hi> occasioned by a Book, Written by Mr. <hi>Williams,</hi> Intituled, <hi>Gospel Truth Stated and Vindicated,</hi> to which some of our Names were prefix'd, and against which several Exceptions were made by Mr. <hi>Griffith,</hi> Mr. <hi>Cole,</hi> Mr. <hi>Mather,</hi> Mr. <hi>Chauncey,</hi> Mr. <hi>Traile,</hi> and Mr. <hi>Richard Taylor,</hi> which if continued amongst the Ministers of Christ, may be much to the Dishonour of God, and Danger to the Souls of Men.</q>
+               </p>
+               <p>
+                  <q>For the Composing whereof, as we formerly expres<g ref="char:EOLhyphen"/>sed our Approbation of the Doctrinal Articles of the Church of <hi>England,</hi> or the Confession of Faith, Com<g ref="char:EOLhyphen"/>piled by the Assembly at <hi>Westminster,</hi> or that at the <hi>Savoy,</hi> as agreeable to the Word of God, unto that Approbation we still adhere: Declaring further, That if any of us shall at any Time hereafter be apprehended to have express'd himself disagreeing thereunto; we
+<pb n="4" facs="tcp:100992:3"/>will with Brotherly Candour and Kindness, mutually endeavour to give, and receive just Satisfaction herein: Bearing with one anothers Infirmities, and different Sentiments about <hi>Logical,</hi> or <hi>Philosophical Terms,</hi> or meerly <hi>Humane Forms of Speech,</hi> in Matters of <hi>lesser Weight:</hi> Not thinking it reasonable or just to Charge upon any Brother such Consequences of any Expressi<g ref="char:EOLhyphen"/>on, or Opinion of his, which he himself shall Disown.</q>
+               </p>
+               <p>
+                  <q>And We do further Declare, with respect to the spe<g ref="char:EOLhyphen"/>cial Matters in Difference amongst us; that, <hi>Altho Re<g ref="char:EOLhyphen"/>generation, Repentance towards God, Faith in our Lord Jesus Christ, and Holy Conversation, are by God's express Word manifestly necessary to the Salvation of a Sinner;</hi> yet, that none of these, <hi>or any Work done by Men, or wrought by the Spirit of God in them, is under the Notion of Subordination, or under any Denomination whatsoever, any Part of that Righteousness for the sake, or on the ac<g ref="char:EOLhyphen"/>count whereof God doth Pardon, Justifie, or accept Sinners, or entitle them to Eternal Life; that being only the Righ<g ref="char:EOLhyphen"/>teousness of Jesus Christ without them, Imputed unto them, and Received by Faith alone.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>And whereas, in the above mention'd Book it is said, <hi>[There is no Change of Person betwixt Christ and Behevers]</hi> (Page 37, 40, 41.) which the Learned <hi>H. Grotius,</hi> and the Reverend Dr. <hi>Stillingfleet,</hi> now Bi<g ref="char:EOLhyphen"/>shop of <hi>Worcester,</hi> do not only Assert, but Irrefragably Prove, in Concurrence with the <hi>Common Sentiment of Protestants;</hi> in as much as we <hi>conceive the Doctrine of Justification, and of Christ's Satisfaction, on which it de<g ref="char:EOLhyphen"/>pends, cannot be duly Explained and Defended, consistently with the Denial of any</hi> Commutation <hi>of</hi> Persons <hi>between Christ and Believers.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>We do therefore Declare our <hi>Disallowance</hi> of that Proposition in the general Sense thereof, giving our Sense thus. That as it is Apparent, this cannot be a <hi>Physical</hi> Change, by which Christ and Believers do in <hi>Substance</hi> become one another: Nor again a <hi>Moral</hi>
+                     <pb n="5" facs="tcp:100992:3"/>Change, whereby Christ should become <hi>inherently sin<g ref="char:EOLhyphen"/>ful,</hi> and Believers become immediately thereby Inno<g ref="char:EOLhyphen"/>cent, and Sinless: So, we doubt not, there is a Com<g ref="char:EOLhyphen"/>mutation of Persons in a <hi>Legal Sense,</hi> Christ by Con<g ref="char:EOLhyphen"/>sent between the Father, and Him, <hi>Putting on the Per<g ref="char:EOLhyphen"/>son, and coming into the Room, and Stead of Sinners;</hi> not to Repent, or Believe for them, which the Gos<g ref="char:EOLhyphen"/>pel requires (tho He hath undertaken the Elect shall in due time be enabled hereunto) but to <hi>Answer for them the Obligations of the violated Law of Works, being made Sin for them, tho He knew no Sin, that they might be made the Righteousness of God in Him,</hi> 2 Cor. 5.21. And <hi>what is contrary hereunto, we Judge Erroneous and False.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q>And as there is a Change of Persons betwixt Christ and Believers, so the <hi>guilt of our Iniquities being laid upon Christ,</hi> the Father was <hi>displeased</hi> with him. Not that He was ever moved to any Passion against Him, which in the General, the Perfection of the Divine Nature admits not, on any account whatsoever; nor that he was in any Sense offended with him, much less abhorr'd him, considered as He was in himself, for <hi>so</hi> he was most perfectly sinless; but considered <hi>in Relation to us,</hi> as our <hi>Surety,</hi> bearing our Sins in his own Body; <hi>so,</hi> if by <hi>Displeasure,</hi> or <hi>Wrath,</hi> be only meant [a <hi>Dispassionate Will to Punish</hi>] the Lord Christ did <hi>Feel, and Bear</hi> the <hi>Displeasure</hi> of God, <hi>and the weight of his Wrath,</hi> in <hi>the Punishment of our Sins, transferr'd upon Him;</hi> for it pleased the Father to bruise Him, having laid upon Him the Iniquities of us all. And we do further Declare, That whosoever shall be found to express themselves in their Preachings or Writings agreeably hereto, and the mentioned Ar<g ref="char:EOLhyphen"/>ticles, and Confessions, we shall esteem them to deli<g ref="char:EOLhyphen"/>ver the Sincere Gospel of our Lord and Saviour Jesus Christ. And it shall be remote from us to oppose, or reflect upon: But we shall to our utmost encou<g ref="char:EOLhyphen"/>rage
+<pb n="6" facs="tcp:100992:4"/>and give Countenance to one anothers Ministry herein.</q>
+               </p>
+               <p>
+                  <q>If therefore Mr. <hi>Williams</hi> shall concur with us in what we have declared touching the <hi>Doctrine of Justi<g ref="char:EOLhyphen"/>fication,</hi> and in the Sense we have given of a <hi>change of Persons</hi> between Christ and Believers, and of <hi>Christ's enduring the displeasure of the Father</hi> for our sins; and shall give satisfaction about any thing else that any Brother excepts against in the rest of his Writings, agreeably to the abovesaid Articles and Confessions, We shall so far acquiesce therein, as not to make them the matter of further Publick Contest or Alteration amongst our selves.</q>
+               </p>
+            </div>
+            <div type="commentary">
+               <head>The REMARKS.</head>
+               <p>§. I. We can now fully clear our <hi>London</hi>-Brethren from the Reproach cast on them, by the Author of the <hi>Reasonableness of Christianity,</hi> Pag. 303. a <hi>Socinian</hi> Writer.</p>
+               <p>This Gentleman, in his Attempts to Reduce the In<g ref="char:EOLhyphen"/>dispensable and Necessary Articles of our Holy Religi<g ref="char:EOLhyphen"/>on unto the Faith of <hi>Hobbes</hi> and <hi>Mahomet,</hi> which is to Believe only, That <hi>Jesus of</hi> Nazareth <hi>is the Messiah,</hi> represents the other Articles, at least a great part of 'em, to be made up of such <hi>Speculations, Niceties, Obscure Terms,</hi> and <hi>Abstract Notions,</hi> as amaze the greatest part of Mankind: And that he might the more <hi>colourably</hi> Insinuate thus much, he directs his <hi>Readers</hi> to the <hi>Dis<g ref="char:EOLhyphen"/>senters,</hi>
+                  <q>Who (he saith) are supposed by their <hi>Tea<g ref="char:EOLhyphen"/>ches,</hi> to be more Accurately Instructed in Matters of Faith, and better to understand the <hi>Christian Reli<g ref="char:EOLhyphen"/>gion,</hi> than the Vulgar Conformists — But I ask them, Whether One in Ten of those, who come to their Meetings in the Countrey, if they had time to Study them, do, or can understand the Controver<g ref="char:EOLhyphen"/>sies at this time so warmly managed amongst them about <hi>Justification.</hi> — I have talk'd with some of
+<pb n="7" facs="tcp:100992:4"/>their <hi>Teachers,</hi> who <hi>Confess themselves</hi> not to under<g ref="char:EOLhyphen"/>stand the Differences in Debate between them. And yet the Points they stand on, are reckoned of <hi>so great Weight, so Material, so Fundamental,</hi> that they divide Communion, and Separate upon them.</q>
+               </p>
+               <p>This Character given of us, is not entertained only by the Gentleman's own Admirers, but by others, who are more sound in the Faith; whence it is, that we are considered as Men of so much Humour, and so little Knowledge, as to wrangle about we know not what, and make Divisions for Divisions sake. But this Charge being as False, as it is Injurious, 'tis now detected, the Points in Controversie made manifest, and the Temper and Spirit of our Brethren evinced to be Benign and Peaceable, disposed to Accommodation upon a Gene<g ref="char:EOLhyphen"/>rous and Christian Bottom, as appears by the Propo<g ref="char:EOLhyphen"/>sal, and Closure with this Orthodox and Healing Ex<g ref="char:EOLhyphen"/>pedient. To which I add,</p>
+               <p>§. II. That now, as we know what the Controversie hath been about, so we see it is not about Trifles, or Matters of lesser Weight. It is about a <hi>Commutation of Persons between</hi> Christ, <hi>and Believers:</hi> A Point of so great Importance, that in the Improvement and Ap<g ref="char:EOLhyphen"/>plication of it, no small part of the Life, and Exercise of Faith doth consist. For, saith a Learned Doctor, <q>Christ was made our Sin, and the Righteousness which God requireth by the Law is fulfilled <hi>in us,</hi> not by <hi>our</hi> doing it, but by <hi>His.</hi> — This is that <hi>blessed Change</hi> and <hi>Commutation, wherein alone the Soul of a Convinced Sinner can find Rest and Peace.</hi> 'Twas the Belief of this Doctrine that fill'd <hi>Justin Martyr</hi> with so much Joy, when he said, <hi>God gave his Son a Ran<g ref="char:EOLhyphen"/>som</hi> for us, <hi>the Holy</hi> for <hi>Transgressors,</hi> the <hi>Just</hi> for the <hi>Ʋnjust. For what else could Hide, or Cover our Sins, but his Righteousness:</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>O sweet PERMƲTATION,</hi> or <hi>CHANGE! O unsearchable Work,</hi> or <hi>Curious Operation! That the
+<pb n="8" facs="tcp:100992:5"/>Iniquity of</hi> many <hi>should be hid in</hi> One <hi>Just One;</hi> and <hi>the Righteousness of</hi> One <hi>should Justifie</hi> many <hi>Trans<g ref="char:EOLhyphen"/>gressors.</hi> Dr. <hi>O.</hi> of Justifi. P. 40, 41, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>This is that Doctrine the <hi>Lutherans,</hi> in Conjunction with the <hi>Calvinists,</hi> so earnestly Plead for. This is what the Learned Doctors of the Church of <hi>England,</hi> in Defence of their Doctrinal Articles, write for. This is what the Reverend Bishop of <hi>Worcester</hi> hath Defen<g ref="char:EOLhyphen"/>ded, to the Confounding and Silencing the <hi>Socinians:</hi> This is what the Renowned <hi>Grotius,</hi> how much soever in other Instances <hi>Arminian;</hi> and his Abetter <hi>Vossius</hi> stuck to: This is what the <hi>Fathers</hi> Believed, the A<g ref="char:EOLhyphen"/>postles Preached, and what our Lord Christ himself Delivered, when He said, <hi>This is my Blood of the New Testament which is shed For many;</hi> where the Particle <hi>[For]</hi> signifieth a <hi>Commutation,</hi> or <hi>Change</hi> of Persons between Christ and us.</p>
+               <p>In a word, this Commutation, or Change of Persons, is the <hi>Corner</hi> Stone of the Doctrine of Christ's Satisfacti<g ref="char:EOLhyphen"/>on, the Belief of which is so necessary to Salvation. If no Change of Persons, there can be no Imputing our Sin, there can be no Transferring our Guilt to Christ, nor could Christ justly bear the proper Punishment due for our Sins, for which Reason the <hi>Socinianizing Armi<g ref="char:EOLhyphen"/>nians</hi> will not admit of a <hi>Change</hi> of <hi>Persons,</hi> except it be in Conjunction with a <hi>Change</hi> of the <hi>Sufferings</hi> from <hi>Poenal,</hi> to meerly <hi>Afflictive.</hi> And to be consistent with themselves, they do hold, That our Sins were not the Meritorious, but <hi>Pro causa Meritoria</hi> of Christ's Suffer<g ref="char:EOLhyphen"/>ings; and that Christ's Sufferings were not <hi>properly Poe<g ref="char:EOLhyphen"/>nal,</hi> but only Improperly and Analogically a Punish<g ref="char:EOLhyphen"/>ment, being but <hi>Vice Poenae,</hi> in the place and room of a proper Punishment, whence its impossible for Christ to make Satisfaction unto <hi>Punitive Justice.</hi>
+               </p>
+               <p>But, on the other hand, as the Learned Doctor <hi>Edwards</hi> hath very lately, in his <hi>Preservative against Socinianism,</hi> Part III. p. 80, 81. well observed. <q>If
+<pb n="9" facs="tcp:100992:5"/>there be a <hi>Permutation of Persons,</hi> then Christ must Suffer what otherwise would have lighted <hi>is on us,</hi> which was <hi>Death,</hi> and that Death was the <hi>Punishment</hi> of Sin. His Blood was shed <hi>instead of</hi> ours; his Life went in <hi>Exchange</hi> for our Lives; And why was all this done, but to <hi>Satisfie</hi> the Law, which threatned and required Punishment? and that Punishment He underwent in <hi>our stead,</hi> who were <hi>thereby</hi> freed from the Obligation to it. I am <hi>ashamed</hi> to <hi>use so many Words in so plain a case.</hi> And yet for all this the <hi>Ar<g ref="char:EOLhyphen"/>minians,</hi> who said, That Christ Suffered in <hi>our stead,</hi> deny Christ's Sufferings to be a <hi>proper Punishment.</hi>
+                  </q>
+               </p>
+               <p>This Point of <hi>Commutation,</hi> or Change of Persons is, you see, of that Moment, that as we regard our Souls, and the great Design of God in Christ's Death, we must be Zealous in Contending for it. It is on this Do<g ref="char:EOLhyphen"/>ctrine the designing <hi>Arminians</hi> make the first Breach, to the end the <hi>Socinian</hi> Bands may enter, and carry all before 'em. Who then can blame these Brethren, who strive so strenuously for its Establishment? Or, who can forbear rendring Thanks to those <hi>Worthies,</hi> who in the Paper they sent unto the Congregational, have so expresly Asserted the necessity of it to be such, that consistently with the denyal of any Change of Persons, the Doctrine of Christ's Satisfaction can be neither duly Explained, nor Defended.</p>
+               <p>§. III. The Publishing this Paper clears the <hi>Congre<g ref="char:EOLhyphen"/>gational</hi> from the Charge of <hi>Antinomianism.</hi>
+               </p>
+               <p>It hath been the care of some to represent these Bre<g ref="char:EOLhyphen"/>thren as <hi>Antinomian;</hi> and, such as are tight <hi>Presbyte<g ref="char:EOLhyphen"/>rians,</hi> because they adhere to the Old Doctrines, deli<g ref="char:EOLhyphen"/>vered unto us from God's Holy Word by the First Re<g ref="char:EOLhyphen"/>formers, cannot escape the Name of <hi>Antinomian-Inde<g ref="char:EOLhyphen"/>pendents,</hi> nor the Censure of Designing the Subversion of <hi>Presbyterian</hi> Principles about Church-Discipline.</p>
+               <pb n="10" facs="tcp:100992:6"/>
+               <p> This Artifice hath so far obtained, that, not only many amongst the <hi>Vulgar</hi> take it for granted, that the Controversie is between the <hi>Presbyterian</hi> and <hi>Congrega<g ref="char:EOLhyphen"/>tional</hi> about Ecclesiastical Points; but some Ministers sound in the Faith, have been so very much moved by these Methods, that they have been the less Vigorous in Opposing the Suspected Errors, whilest others have been frighted into Opinions of an <hi>Arminian</hi> Aspect.</p>
+               <p>This is not, I confess, a <hi>New Method,</hi> it being the same which the <hi>Arminians</hi> took, when they first at<g ref="char:EOLhyphen"/>tempted to Instil and Propagate their Notions in this Kingdom: For, as a worthy Gentleman of the Church of <hi>England,</hi> in a MSS. at this time in my Hands ob<g ref="char:EOLhyphen"/>serves, <q>The most Unjust and Uncharitable Course which the <hi>Arminians</hi> took, and whereby they pre<g ref="char:EOLhyphen"/>vailed more than by all the rest, was their seeking to draw the Persons of those that Dissent from them into <hi>dislike</hi> — as if they were <hi>Puritans,</hi> and <hi>Disciplinarians;</hi> or, at least that way affected; whereas, the Questions in Debate are such as no way touch upon <hi>Puritanism.</hi>
+                  </q> I have also seen a MS. of Bishop <hi>Over all,</hi> Transcribed, as I have reason to believe, by Bishop <hi>Mountague</hi>'s own Hand, in which this very Practice is most manifest: For, saith he, <hi>Quin{que} sunt Articuli, &amp;c.</hi> There are Five Arti<g ref="char:EOLhyphen"/>cles Controverted in <hi>Holland,</hi> about which the <hi>Remon<g ref="char:EOLhyphen"/>strants,</hi> or <hi>Arminians,</hi> and the <hi>Contra-Remonstrants,</hi> or <hi>Puritans,</hi> defend contrary Opinions: whereby the Bi<g ref="char:EOLhyphen"/>shop Insinuates, That the Opposers of Arminian-Te<g ref="char:EOLhyphen"/>nents were <hi>Puritans,</hi> a <hi>Name</hi> of <hi>Reproach</hi> at that time amongst the rising Clergy, as now the Word <hi>[Congre<g ref="char:EOLhyphen"/>gational,]</hi> since the starting this unhappy Controversie is become odious amongst them, by whom the Unstu<g ref="char:EOLhyphen"/>died are taken off from attending unto the Solid Rea<g ref="char:EOLhyphen"/>sonings, even of Orthodox <hi>Presbyterians,</hi> by the Fa<g ref="char:EOLhyphen"/>stening on 'em the Scandalous Name of <hi>Antinomian-Independents.</hi>
+               </p>
+               <pb n="11" facs="tcp:100992:6"/>
+               <p> But the Publishing this Paper doth demonstrate (1.) That the Questions in debate don no way touch upon the Nature, Constitution, or Government of Churches, either off, or on; they being wholly about <hi>Doctrinals.</hi> (2.) That the <hi>Congregational</hi> in and about <hi>London,</hi> who are chiefly, if not solely Concern'd in the Dispute, I mean the <hi>Pastors</hi> of Churches, who have expressed their Approbation of the Doctrines contained in this Paper (as I hear all of 'em have done) are far from being tainted with the <hi>Antinomian</hi> Poyson. For therein they declare,</p>
+               <p n="1">1. <q>That they do still adhere unto their Approba<g ref="char:EOLhyphen"/>tion of the Doctrinal Articles of the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> or the Confession of Faith Compiled by the Assembly at <hi>Westminster,</hi> or that at the <hi>Savoy,</hi> as agreeable to the Word of God.</q>
+               </p>
+               <p n="2">2. <q>That Regeneration, Repentance towards God, Faith in our Lord Jesus Christ, and Holy Conversa<g ref="char:EOLhyphen"/>tion, are by God's Word manifestly necessary to the Salvation of a Sinner.</q>
+               </p>
+               <p n="3">3. <q>That God doth not Pardon, Justifie, or Accept a Sinner, or Entitle him to Eternal Life, before the Imputed Righteousness of Christ is Applied and Re<g ref="char:EOLhyphen"/>ceived by Faith.</q>
+               </p>
+               <p n="4">4. <q>That though Christ hath undertaken to Enable the Elect in due time to Believe and Repent; yet He did not Believe and Repent for them, to exempt them from the Obligation of doing it themselves.</q>
+               </p>
+               <p n="5">5. <q>That touching a Change of Persons between Christ and Believers, there is no <hi>Physical</hi> change, whereby Christ and Believers do in <hi>Substance</hi> become one another; nor a <hi>Moral</hi> Change, whereby Christ should become <hi>Inherently sinful,</hi> and Believers thereby immediately Innocent and Sinless; but the Change is only in a <hi>Legal Sense,</hi> which Importeth the same with a <hi>proper Surrogation.</hi>
+                  </q>
+               </p>
+               <p n="6">
+                  <pb n="12" facs="tcp:100992:7"/> 6. <q>That the Father was never moved to any Passion against his Son on any Account whatsoever; nor was in any Sense offended with Him, much less Abhorr'd Him, considered as He was in Himself; but in Con<g ref="char:EOLhyphen"/>currence with general Sentiments of Protestants, and particularly with the Assembly at <hi>Westminster,</hi> they affirm, That <hi>Christ,</hi> considered <hi>in relation to us,</hi> as our <hi>Surety,</hi> did feel and bear the Weight of God's Wrath.</q>
+               </p>
+               <p>What can be more fully said to clear a People from the Charge of <hi>Antinomianism,</hi> than what is done in this Paper? We are therefore very glad 'tis come to light; that such as have been Imposed upon, may see how injuriously the <hi>Congregational</hi> have been Burdened with the Reproach of being <hi>Antinomian.</hi>
+               </p>
+               <p>§. IV. By the appearing of this Paper abroad, the <hi>Presbyterians</hi> are Vindicated from the <hi>Socinian</hi> Slander of their being <hi>Arminians.</hi>
+               </p>
+               <p>Mr. <hi>Gaylard,</hi> in his Writings against the <hi>Socinians,</hi> charging the <hi>Arminians</hi> for <hi>Socinianizing,</hi> the <hi>Socinian,</hi> in his Reply tells bim, That he hath thereby made the <hi>Socinians</hi> a very Formidable Party, because (saith he) <hi>Almost all the Church of</hi> England, <hi>a</hi> Moiety of the Pres<g ref="char:EOLhyphen"/>byterians, <hi>and Nine Parts in Ten of the Quakers are Ar<g ref="char:EOLhyphen"/>minians.</hi> Thus much in the <hi>Apology</hi> for the <hi>Parliament,</hi> Let. 2.</p>
+               <p>That there are <hi>Socinianizing-Arminians</hi> cannot be de<g ref="char:EOLhyphen"/>nied, it being sufficiently proved by the Learned Dr. <hi>Edwards</hi> of <hi>Oxford,</hi> and others; who as they do in the first place show much Tenderness to their <hi>Socinian</hi> Bre<g ref="char:EOLhyphen"/>thren, by yielding, that the Belief of Christ's <hi>Divinity</hi> and <hi>Satisfaction,</hi> is not necessary to Salvation; in like manner they do more fully discover themselves, by <hi>corrupting</hi> the Doctrine of a <hi>Change of Persons</hi> between Christ and us, which they do by pretending to go a
+<pb n="13" facs="tcp:100992:7"/>
+                  <hi>middle way,</hi> between the <hi>Socinian</hi> and <hi>Calvinian</hi> Ex<g ref="char:EOLhyphen"/>treams, as may be seen in <hi>Limborch. Theol. Christ.</hi> Lib. 3. Cap 20, 21, 22. where he very liberally owns, That Christ suffered most grievous Torments, both in Body and Mind, in our <hi>place</hi> and <hi>stead;</hi> declaring al<g ref="char:EOLhyphen"/>so for a sort of <hi>Commutation,</hi> or <hi>Change</hi> of Persons, as intended by the Particle [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>For,</hi>] For us. But in Explaining what they mean by a <hi>Change of Persons;</hi> what by Suffering in <hi>our stead,</hi> and <hi>room,</hi> they pervert the Doctrine; positively denying, either that Christ Suffered in the <hi>Person</hi> of <hi>Sinners;</hi> or that our Sins were the <hi>meritorious</hi> Cause of Christ's Suffering; or that Christ's Sufferings were the <hi>proper</hi> Punishment due to us for Sin.</p>
+               <p>These things are for the most part observ'd by Dr. <hi>Edwards, (ubi supra)</hi> who saith, <q>That though the <hi>Remonstrants</hi> tell us, That Christ Suffered, not only <hi>upon our account,</hi> or for <hi>our benefit,</hi> as the <hi>Socinians</hi> express it, but likewise in <hi>our stead,</hi> that his <hi>Death</hi> was a <hi>proper</hi> Sacrifice, that He was made a <hi>Curse</hi> by undergoing an accursed death for us; which clearly demonstrates a <hi>Permutation,</hi> or <hi>Change</hi> of <hi>Persons:</hi> We Sinned, and deserved <hi>Punishment,</hi> and He under<g ref="char:EOLhyphen"/>went that Death which we had deserved. None of which can be true, if the Death and Sufferings of Christ were not properly a Punishment. — And yet, for all this, Christ must not (say these <hi>Armini<g ref="char:EOLhyphen"/>ans</hi>) be said to be Punished for us, but to undergo that which was <hi>vice Poenae.</hi> If so, then (adds the Doctor) Christ was not <hi>truly</hi> a <hi>Sacrifice,</hi> but <hi>vice Sacrificii,</hi> He served instead of one, and was not <hi>Substituted properly</hi> in our place; but in the <hi>place</hi> and <hi>stead</hi> of a Sacrifice.</q> So far the Learned Dr. <hi>Edwards,</hi> who hath very Impartially Stated the Notion of the <hi>Socinianizing-Arminians,</hi> which he wisely Judg'd neces<g ref="char:EOLhyphen"/>sary, to make his <hi>Preservative</hi> against <hi>Socinianism</hi> the more Effectual.</p>
+               <pb n="14" facs="tcp:100992:8"/>
+               <p> This then being the way of these <hi>Arminians,</hi> it can<g ref="char:EOLhyphen"/>not be denied but we must be very Cautious, that in a <hi>Day,</hi> wherein the <hi>Socinians</hi> are so bold, we give them no Advantage, Countenance, or Reputation, either by a shyness to Testifie against their corrupting the Doctrine of a Change of Persons; or by yielding, that to say, Christ <hi>suffered in our stead,</hi> is sufficient to make it manifest, That they hold a Change of Persons in a sound Sense, and do not <hi>Arminianize</hi> in this Particu<g ref="char:EOLhyphen"/>lar: However, nothing can be more obvious and plain, Than that the Approvers of this Paper are most remote from these daubing (or any other sorts of) <hi>Ar<g ref="char:EOLhyphen"/>minians;</hi> For they do declare;</p>
+               <p n="1">1. <q>That neither Regeneration, Repentance towards God, Faith in our Lord Jesus Christ, Holy Conver<g ref="char:EOLhyphen"/>sation, nor any Works done by Men, or wrought by the Spirit of God in them, is under the Notion of Subordination, or under any other denomination whatsoever, any part of that Righteousness for the <hi>sake,</hi> or upon <hi>the account whereof,</hi> God doth Pardon, Justifie, or accept Sinners, or Entitle them to Eternal Life.</q>
+               </p>
+               <p>Here you see the <hi>Arminian</hi>'s <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>credere,</hi> the <hi>Act</hi> of Believing is entirely shut out from being any Parts of our <hi>Justifying</hi> Righteousness.</p>
+               <p n="2">2. <q>A proper Permutation, or Change of Persons in a <hi>Legal Sense</hi> is Asserted, even such a Change as that, where Christ putting on the Person of Sinners, comes into their room, and stead, to <hi>Answer for</hi> them the <hi>OBLIGATIONS</hi> of the Violated Law of Works.</q>
+               </p>
+               <p>It must be here Remark'd, that although Christ might answer for the Violations of the Law of Works without making satisfaction to Punitive Justice, as the <hi>Socinians,</hi> as well as <hi>Arminians</hi> will have it; yet, seeing the Violated Law of Works <hi>obliged</hi> the Transgressor to lie under a <hi>Proper</hi> Punishment, Christ could not Answer
+<pb n="15" facs="tcp:100992:8"/>this <hi>Obligation</hi> and otherwise than by enduring a <hi>Proper</hi> Punishment, even to the Satisfaction of Gods Justice. So that the Account given of a change of Persons in this <hi>Paper</hi> is most expressive of the Orthodox Sense and most opposite to the <hi>Arminian,</hi> as will further appear, if we observe what they add.</p>
+               <p n="3">3. <q>That as there is a <hi>Change of Persons</hi> between Christ and us, so the Guilt of our Iniquities being laid on Christ, He, <hi>considered in Relation</hi> to us, as our <hi>Surety,</hi> did feel and bear the Displeasure of God, and the Weight of his Wrath in the Punishment of our Sins transferr'd upon him.</q>
+               </p>
+               <p>This <hi>Paper</hi> being, as any one may perceive, so <hi>Plain<g ref="char:EOLhyphen"/>ly,</hi> and <hi>Diametrically</hi> Opposite unto <hi>Arminianism;</hi> and the Generality of the <hi>Presbyterians,</hi> in, and about this City, more especially the most eminent amongst them, having expressed their Approbation of the Doctrines contained in it; they cannot, now its Published, with<g ref="char:EOLhyphen"/>out the greatest Injustice, by branded for being <hi>Armi<g ref="char:EOLhyphen"/>nians,</hi> once more.</p>
+               <p>§. 5. The Publishing this <hi>Paper</hi> hath given us so much Light into the Present controversie; that <hi>now</hi> we see, it hath been about what is Essential to the Do<g ref="char:EOLhyphen"/>ctrine of Christs Satisfaction; and that by the Blessing of God on the Industry of the <hi>Pacificators,</hi> 'tis come to this Issue, <hi>viz.</hi> Whether the Paper sent by some of the most Eminent <hi>Presbyterians</hi> unto the <hi>Congregational,</hi> as an Expedient for Peace, and most chearfully entertain<g ref="char:EOLhyphen"/>ed by them? Whether I say, this Paper, in which the Necessity of a <hi>Change of Persons</hi> is Asserted; and the Doctrine it self most Orthodoxly Explained, shall be Received? Or whether another <hi>Paper,</hi> in which a Change of Persons is neither Affirm'd as necessary, nor duly Explained, but some Important <hi>Terms</hi> and <hi>Phra<g ref="char:EOLhyphen"/>ses,</hi> [such as <hi>Christ's being our Surety; His Putting on the Person of Sinners; His Answering for them the Obliga<g ref="char:EOLhyphen"/>tions of the Violated Law of Works</hi>] are left out, shall be
+<pb n="16" facs="tcp:100992:9"/>Pitch'd upon as the Expedient to close our Breaches, and Heal those Wounds that have almost broken the Hearts of the most Godly and Judicious amongst us? This is now the Controversie that remains.</p>
+               <p>If this Paper, on which I have made these Remarks, give Satisfaction to the <hi>Few,</hi> who have not as yet ex<g ref="char:EOLhyphen"/>pressed their Approbation, 'twill soon appear that we are all Unanimous in Preaching the same Gospel; and we may Unite our Strength in contending for the Truth, in opposition to the many <hi>Socinians</hi> and <hi>Deists,</hi> whose Pamphlets are scattered throughout this Na<g ref="char:EOLhyphen"/>tion. That this Blessing may be attained, is my Pray<g ref="char:EOLhyphen"/>er and the Design of these Remarks.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:100992:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
